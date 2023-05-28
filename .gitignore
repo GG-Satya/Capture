@@ -1,0 +1,22 @@
+# IDE
+/.classpath
+/.project
+/.settings/
+/.factorypath
+
+# Eclipse-specific files
+*.pydevproject
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+target/
+
+# Build tools
+/maven-local-repository/
