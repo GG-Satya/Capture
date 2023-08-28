@@ -29,7 +29,7 @@ The NoteTaker Web Application is a simple and intuitive tool for creating, organ
 - Node.js
 - Express.js
 - Database (e.g., MongoDB, MySQL, PostgreSQL)
-- Any additional libraries or frameworks used in the project
+- Hibernate , JSP
 
 ## Contributing
 
